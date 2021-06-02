@@ -1,0 +1,24 @@
+.player_sideBar{
+    background-color: black;
+    color:white;
+    height:100%;
+}
+
+.logo{
+    height:70px;
+    object-fit: contain;
+    margin-right: auto;
+    padding:10px;
+}
+
+.playlist1{
+margin-left: 10px;
+padding: 5px;
+font-size: 12px;
+
+}
+.player_sideBar > hr{
+    border:1px solid rgb(59, 57, 57);
+    width: 90%;
+    margin:10px auto;
+}
